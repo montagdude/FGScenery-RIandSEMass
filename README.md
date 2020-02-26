@@ -12,6 +12,12 @@ Data sources:
 
 The git repository includes the scripts used to generate the scenery, but it does not include all the input data. To just download the scenery itself, go to the Releases page and download the zip or tar archive.
 
+Installation and Usage
+================================================================================
+To install, download RIandSEMass.zip or RIandSEMass.tar.xz from the Releases page and extract the files wherever you like. Point FlightGear to the directory with the --fg-scenery command line option, the FG_SCENERY environment variable, or add it to Additional Scenery Folders in the GUI.
+
+For the best experience, if your computer can handle it, turn on OSM buildings and detailed roads and pylons under Rendering Options.
+
 Screenshots
 ================================================================================
 

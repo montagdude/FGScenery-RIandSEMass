@@ -1,0 +1,8 @@
+# TerraGear docker image
+1. Install and configure docker through SBo
+2. Follow directions here to install TerraGear docker image:
+   http://wiki.flightgear.org/Howto:Docker_scenery_toolchain
+3. Start the container and mount scenery directory
+   docker run -it --volume $(pwd):/home/flightgear/RIandSEMass flightgear/terragear
+4. If needed, copy files to the container:
+   docker container cp <source file> <container_id>:<container path>

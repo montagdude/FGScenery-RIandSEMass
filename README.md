@@ -35,3 +35,6 @@ Providence Airport (KPVD)
 
 ![alt tag](https://raw.githubusercontent.com/montagdude/FGScenery-RIandSEMass/master/screenshots/providence.png)
 Downtown Providence, RI
+
+![alt tag](https://raw.githubusercontent.com/montagdude/FGScenery-RIandSEMass/master/area_covered.png)
+Area covered by this scenery
